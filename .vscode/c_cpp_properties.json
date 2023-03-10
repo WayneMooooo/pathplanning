@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "win",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/inc",
+                "C:/Users/Moweimin/Desktop/pathplanning/inc",
+                "C:/Users/Moweimin/Desktop/pathplanning/src",
+                "D:\\eigen3\\**",
+                "D:/opencv/build/x64/MinGw/install/include",
+                "D:/opencv/build/x64/MinGw/install/include/opencv2",
+                "D:\\python\\include",
+                "D:\\python\\include\\cpython\\*",
+                "D:\\mingw64\\include\\*"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17763.0",
+            "compilerPath": "D:\\mingw64\\bin\\g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "${default}",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
